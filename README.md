@@ -13,3 +13,5 @@ https://www.linkedin.com/pulse/hadoop-breaking-myths-proof-ishan-singhal/
 Many people believe that the NameNode is involved in data transfer between the Client and DataNodes.
 
 Here's an article showing how the NameNode is involved only in providing info about the DataNodes and files. Data transfers/read happens directly between Client and DataNodes.
+
+![Concept Diagram](https://github.com/IshanSinghal/Hadoop-Data-Transfer/blob/main/diagram.jpg)
